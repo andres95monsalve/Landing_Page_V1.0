@@ -1,0 +1,103 @@
+body {
+  margin: auto;
+}
+
+.astronauta {
+  margin-top: 6%;
+}
+
+.nubes {
+  position: absolute;
+  width: 1865px;
+  height: 800px;
+  margin-left: -12.54%;
+  margin-top: -75.2%;
+}
+
+.fondo-dona1 {
+  position: absolute;
+  width: 271px;
+  height: 311px;
+  margin-left: 14%;
+  margin-top: -66.9%;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ff8fbf;
+}
+
+.fondo-dona2 {
+  position: absolute;
+  width: 271px;
+  height: 294px;
+  margin-left: 39.5%;
+  margin-top: -60%;
+  background: rgba(22, 11, 37, 0.78);
+  backdrop-filter: blur(7.5px);
+  border-radius: 0px 0px 40px 40px;
+}
+
+.fondo-dona3 {
+  position: absolute;
+  width: 271px;
+  height: 311px;
+  margin-left: 65%;
+  margin-top: -55.3%;
+  background: rgba(22, 11, 37, 0.78);
+  backdrop-filter: blur(7.5px);
+  border-radius: 0px 0px 40px 40px;
+}
+
+.texto-planetas {
+  position: absolute;
+  width: 851px;
+  height: 174px;
+  margin-left: 55%;
+  margin-top: -72%;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 75px;
+  line-height: 70px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+}
+
+.dona-azul-2 {
+  position: absolute;
+  width: 320.1px;
+  height: 300px;
+  margin-left: 59%;
+  margin-top: -54.5%;
+}
+
+.dona {
+  position: absolute;
+  width: 301.34px;
+  height: 300px;
+  margin-top: -60%;
+  margin-left: 38.8%;
+  background: url(Image1.png);
+}
+
+.aro-dorado2 {
+  position: absolute;
+  left: 33%;
+  right: 21.6%;
+  top: 21.76%;
+  bottom: 50.07%;
+}
+
+.dona-rosada-2 {
+  position: absolute;
+  width: 315.07px;
+  height: 300px;
+  left: 12%;
+  margin-top: -75.3%;
+}

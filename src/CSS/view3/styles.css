@@ -1,0 +1,129 @@
+body{
+  margin: auto;
+}
+
+.dona-glaseada-borrosa{
+  position: absolute;
+  width: 495px;
+  height: 494px;
+  left: calc(27% - 495px/2 - 98.6px);
+  top: calc(20% - 494px/2 + 40px);
+  background: url(Image1.png);
+  filter: blur(7.5px);
+}
+
+.texto-principal{
+  position: absolute;
+  height: 20%;
+  margin-left: 6%;
+  margin-top: 5%;
+}
+
+.dona-azul-3{
+  position: absolute;
+  width: 802px;
+  height: 854px;
+  margin-left: 50.83%;
+  top: -122px;
+}
+
+.componente{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 45px;
+  gap: 135px;
+  position: absolute;
+  width: 435px;
+  height: 90px;
+  margin-left: 0%;
+  margin-top: 50%;
+  background: rgba(125, 65, 211, 0.85);
+  box-shadow: 0px 15px 30px rgba(45, 28, 69, 0.23);
+  backdrop-filter: blur(5px);
+  border-radius: 30px;
+  width: 845px;
+  height: 40px;
+  position: absolute;
+  width: 653px;
+  height: 40px;
+  left: calc(50% - 345px/2);
+  top: 25px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 40px;
+  color: #FFFFFF;
+}
+
+.button{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  gap: 25px;
+  width: 225.49px;
+  height: 60px;
+  background: #FF8FBF;
+  border-radius: 12px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 30px;
+  color: #7D41D3;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.carrito{
+  width: 22.49px;
+  height: 20.35px;
+  position: absolute;
+  left: 88%;
+  right: 6.65%;
+  top: 77%;
+  bottom: 33.04%;
+}
+
+.dona-rosada-3{
+  position: absolute;
+  width: 342.26px;
+  height: 325.89px;
+  margin-left: 3.5%;
+  margin-top: 47.8%;
+}
+
+.contacto1{
+  position: absolute;
+  width: 323px;
+  height: 417.5px;
+  margin-left: 9%;
+  margin-top: 27%;
+}
+
+.contacto2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 65px 50px;
+  gap: 10px;
+  position: absolute;
+  width: 323px;
+  height: 272px;
+  margin-left: 32.4%;
+  margin-top: 21.82%;
+}
+
+.nube-3{
+  position: absolute;
+  width: 998px;
+  height: 428px;
+  margin-left: 48.72%;
+  margin-top: 25%;
+}
